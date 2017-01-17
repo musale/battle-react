@@ -1,13 +1,13 @@
 {
   "name": "battle",
   "version": "1.0.0",
-  "description": "",
+  "description": "an application following React JS tutorial",
   "main": "index.js",
   "scripts": {
     "production": "webpack -p",
     "start": "webpack-dev-server"
   },
-  "author": "",
+  "author": "Martin Musale",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.21.0",
